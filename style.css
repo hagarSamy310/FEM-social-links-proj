@@ -94,12 +94,10 @@ body {
 	font-size: 0.625rem;
 }
 .attribution > a {
-	text-decoration: none;
+	text-decoration: underline;
 	color: var(--secondary-color);
 }
-.attribution > a:hover {
-	text-decoration: underline;
-}
+
 @media (max-width: 480px) {
 	body {
 		gap: 0.3rem;

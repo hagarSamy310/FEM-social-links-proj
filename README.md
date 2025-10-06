@@ -1,5 +1,7 @@
 # Frontend Mentor - Social links profile solution
 
+A fully responsive profile card with interactive buttons that direct users to social platforms.
+
 ## Table of contents
 
 - [Overview](#overview)
@@ -10,7 +12,7 @@
 
 ## Overview
 
-This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). 
+This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ).
 
 ### Screenshot
 
@@ -18,8 +20,9 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL:  https://www.frontendmentor.io/solutions/a-fully-responsive-profile-card-with-interactive-buttons-81WpB4VdWJ
+
+- Live Site URL: https://social-profiles-links-fem.netlify.app/
 
 ### Built with
 
@@ -27,10 +30,3 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
-
-
-
-
-
-
-
