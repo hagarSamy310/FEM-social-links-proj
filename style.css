@@ -81,7 +81,7 @@ body {
 	text-align: center;
 	border-radius: 5px;
 	cursor: pointer;
-	transition: background-color color 3s ease-in-out;
+	transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
 }
 .social-link-btn:hover,
 .social-link-btn:active {
@@ -96,8 +96,12 @@ body {
 .attribution > a {
 	text-decoration: underline;
 	color: var(--secondary-color);
+  text-underline-offset: 3px;
 }
-
+.attribution > a:hover,
+.attribution > a:active {
+  font-weight: bold;
+}
 @media (max-width: 480px) {
 	body {
 		gap: 0.3rem;
